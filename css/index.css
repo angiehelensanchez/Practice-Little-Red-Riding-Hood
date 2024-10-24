@@ -3,6 +3,7 @@ header, footer{
     border-radius: 20px;
     text-align: center;
     text-decoration: double;
+    margin: auto;
 }
 
 body{
@@ -16,4 +17,10 @@ h2{
     color: black;
     font-size: 40px;
 }
-
+.container{
+    text-align: center;
+}
+.container img{
+    width: 95%;
+    border-radius: 20px;
+}
