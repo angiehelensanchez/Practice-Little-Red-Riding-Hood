@@ -5,7 +5,10 @@ header, footer{
     text-decoration: double;
     margin: auto;
 }
-
+footer div {
+    color: honeydew;
+    font-size: 40px;
+}
 body{
     background-color: #5d8c84;
 }
