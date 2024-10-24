@@ -9,6 +9,16 @@ header, footer{
 body{
     background-color: #5d8c84;
 }
+p{
+    font-style:italic;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.pMoral{
+    color: bisque;
+}
 h1{
     color: #400207;
     font-size: 60px;
@@ -24,3 +34,4 @@ h2{
     width: 95%;
     border-radius: 20px;
 }
+
